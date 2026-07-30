@@ -1,0 +1,29 @@
+{
+  "name": "blackhat_bingo",
+  "version": "1.0.0",
+  "description": "'Ever since I was young, I've dreamt about spending my August in a Business Hall'.",
+  "main": "logic.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianauklist/blackhat-bingo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianauklist/blackhat-bingo/issues"
+  },
+  "homepage": "https://github.com/tatianauklist/blackhat-bingo#readme",
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.5",
+    "vite": "^8.2.0"
+  }
+}
